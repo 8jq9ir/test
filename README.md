@@ -1,5 +1,6 @@
 this reposity includes some custom addons for super tux kart 1.5, in the main page you may find some custom karts to download and install manually , in the tracks folder  you may find some custom tracks available for download and manually install.
 
+-
 
 *ADDONS FOLDERS LOCATION (FOR KARTS AND TRACKS)
 
