@@ -80,9 +80,9 @@ KARTS:  thunar ~/.var/app/net.supertuxkart.SuperTuxKart/data/supertuxkart/addons
 TRACKS : thunar ~/.var/app/net.supertuxkart.SuperTuxKart/data/supertuxkart/addons/tracks & disown
 
 -----------------------------------------------
-
-
-
+-
+-
+-
 *300cc karts folders and addon folder :
 -
 
