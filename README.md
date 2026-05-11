@@ -118,12 +118,15 @@ full path :   /storage/emulated/0/Android/data/org.supertuxkart.stk/files/sup
 
 Linux flatpak (command terminal) 
 
+-
+
 ''dolphin file manager''
 
 sudo dolphin /var/lib/flatpak/app/net.supertuxkartSuperTuxKart/x86_64/stable/active/files/share/supertuxkart/data/kart_characteristics.xml & disown
 
 dolphin sudo-- /var/lib/flatpak/app/net.supertuxkart.SuperTuxKart/current/active/files/share/supertuxkart/data/kart_characteristics.xml
 
+-
 
 ''thunar file manager''
 
