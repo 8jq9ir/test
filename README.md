@@ -36,14 +36,18 @@ Android
 -
 -
 
-KARTS :   Android/data/org.supertuxkart.stk/files/supertuxkart/home/.local/share/supertuxkart/addons/karts
+KARTS :   
 
-full path : /storage/emulated/0/Android/data/org.supertuxkart.stk/files/supertuxkart/home/.local/share/supertuxkart/addons/karts
+Android/data/org.supertuxkart.stk/files/supertuxkart/home/.local/share/supertuxkart/addons/karts
 
+/storage/emulated/0/Android/data/org.supertuxkart.stk/files/supertuxkart/home/.local/share/supertuxkart/addons/karts
 
-TRACKS :  Android/data/org.supertuxkart.stk/files/supertuxkart/home/.local/share/supertuxkart/addons/tracks
+-
+TRACKS :  
 
-full path : /storage/emulated/0/Android/data/org.supertuxkart.stk/files/supertuxkart/home/.local/share/supertuxkart/addons/tracks
+Android/data/org.supertuxkart.stk/files/supertuxkart/home/.local/share/supertuxkart/addons/tracks
+
+/storage/emulated/0/Android/data/org.supertuxkart.stk/files/supertuxkart/home/.local/share/supertuxkart/addons/tracks
 
 
 ---------
