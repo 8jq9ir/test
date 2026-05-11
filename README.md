@@ -8,11 +8,13 @@ this reposity includes some custom addons for super tux kart 1.5, in the main pa
 Windows : 
 
 Karts:   %APPDATA%\supertuxkart\addons\karts 
-         C:\Users\<YourUsername>\Documents\My Games\SuperTuxKart\addons\karts\
+
+C:\Users\<YourUsername>\Documents\My Games\SuperTuxKart\addons\karts\
 
 
 Tracks :‎ ‎ ‎ %APPDATA%\supertuxkart\addons\tracks 
-           C:\Users\<YourUsername>\Documents\My Games\SuperTuxKart\addons\tracks\
+
+C:\Users\<YourUsername>\Documents\My Games\SuperTuxKart\addons\tracks\
 
 
 ---------
