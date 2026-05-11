@@ -11,7 +11,7 @@ Karts:  %APPDATA%\supertuxkart\addons\karts
 
 or full path :  C:\Users\<YourUsername>\Documents\My Games\SuperTuxKart\addons\karts\
 
-Tracks :   %APPDATA%\supertuxkart\addons\tracks 
+Tracks :‎ ‎ ‎ %APPDATA%\supertuxkart\addons\tracks 
 
 or full path :  C:\Users\<YourUsername>\Documents\My Games\SuperTuxKart\addons\tracks\
 
