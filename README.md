@@ -27,14 +27,14 @@ macOS :
 
 KARTS :   ~/Library/Application Support/SuperTuxKart/Addons/Karts
 
--
-
 TRACKS :   ~/Library/Application Support/SuperTuxKart/Addons/Tracks
 
 
 ---------
 
 Android  
+
+-
 
 KARTS :   Android/data/org.supertuxkart.stk/files/supertuxkart/home/.local/share/supertuxkart/addons/karts
 
