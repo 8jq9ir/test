@@ -84,12 +84,13 @@ TRACKS : thunar ~/.var/app/net.supertuxkart.SuperTuxKart/data/supertuxkart/addon
 
 
 *300cc karts folders and addon folder :
+-
 
 and if you want to try karts with custom speed levels (more speed) check the addon folder where i include kart_characteristics.xml file (you need to manually install it in a way to be able to play with the karts with custom speed available in the 300cc folder.)
 
 
 location for kart_characteristics.xml :
-
+-
 ---------
 
 Windows :  C:\Program Files\SuperTuxKart\data\kart_characteristics.xml
