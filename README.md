@@ -22,9 +22,9 @@ C:\Users\<YourUsername>\Documents\My Games\SuperTuxKart\addons\tracks\
 ---------
 
 macOS :
-
+-
 KARTS :   ~/Library/Application Support/SuperTuxKart/Addons/Karts
-
+-
 TRACKS :   ~/Library/Application Support/SuperTuxKart/Addons/Tracks
 
 
