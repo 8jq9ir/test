@@ -93,24 +93,24 @@ location for kart_characteristics.xml :
 -
 ---------
 
-Windows :  C:\Program Files\SuperTuxKart\data\kart_characteristics.xml
+Windows :   C:\Program Files\SuperTuxKart\data\kart_characteristics.xml
 
-Windows x86 version : C:\Program Files (x86)\SuperTuxKart\data\kart_characteristics.xml
-
----------
-
-macOS	~/Library/Application Support/supertuxkart/data/kart_characteristics.xml
+Windows x86 version :   C:\Program Files (x86)\SuperTuxKart\data\kart_characteristics.xml
 
 ---------
 
-Linux	/usr/share/supertuxkart/data/kart_characteristics.xml
+macOS :  ~/Library/Application Support/supertuxkart/data/kart_characteristics.xml
+
+---------
+
+Linux :  	/usr/share/supertuxkart/data/kart_characteristics.xml
 
 
 ---------
 
-Android  Android/data/org.supertuxkart.stk/files/supertuxkart/data/kart_characteristics.xml
+Android :  Android/data/org.supertuxkart.stk/files/supertuxkart/data/kart_characteristics.xml
 
-android full path : /storage/emulated/0/Android/data/org.supertuxkart.stk/files/supertuxkart/data/kart_characteristics.xml
+full path :  /storage/emulated/0/Android/data/org.supertuxkart.stk/files/supertuxkart/data/kart_characteristics.xml
 
 
 ---------
