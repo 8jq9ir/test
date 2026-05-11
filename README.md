@@ -7,7 +7,7 @@ this reposity includes some custom addons for super tux kart 1.5, in the main pa
 
 Windows : 
 -
-
+-
 Karts:   %APPDATA%\supertuxkart\addons\karts 
 
 C:\Users\<YourUsername>\Documents\My Games\SuperTuxKart\addons\karts\
@@ -22,7 +22,7 @@ C:\Users\<YourUsername>\Documents\My Games\SuperTuxKart\addons\tracks\
 ---------
 
 macOS :
-
+-
 -
 
 KARTS :   ~/Library/Application Support/SuperTuxKart/Addons/Karts
@@ -33,7 +33,7 @@ TRACKS :   ~/Library/Application Support/SuperTuxKart/Addons/Tracks
 ---------
 
 Android  
-
+-
 -
 
 KARTS :   Android/data/org.supertuxkart.stk/files/supertuxkart/home/.local/share/supertuxkart/addons/karts
@@ -49,7 +49,8 @@ full path : /storage/emulated/0/Android/data/org.supertuxkart.stk/files/supertux
 ---------
 
 Linux	
-
+-
+-
 Karts :  ~/.local/share/supertuxkart/addons/karts/
 
 TRACKS : ~/.local/share/supertuxkart/addons/tracks/
@@ -58,14 +59,15 @@ TRACKS : ~/.local/share/supertuxkart/addons/tracks/
 ---------
 
 Linux flatpak (command terminal):
-
-
+-
+-
 ''dolpin file manager''
 
 KARTS:  dolphin ~/.var/app/net.supertuxkart.SuperTuxKart/data/supertuxkart/addons/karts & disown
 
 TRACKS : dolphin ~/.var/app/net.supertuxkart.SuperTuxKart/data/supertuxkart/addons/tracks & disown
 
+-
 
 ''thunar file manager''
 
