@@ -1,269 +1,6 @@
 use this commands to install the games while you are in the chatroom lobby in a server in super tux kart .
 
-
-
-
-kart characteristics addon lite :
-
-https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/addon/kart_characteristics.zip
-
-
-kart characteristics (only file) :
-
-https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/addon/kart_characteristics_file.zip
-
-
-
-karts :
-
-
-!biker-cowboy-heavy.zip
-
-/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/%21biker-cowboy-heavy.zip
-
-
-biker-cowboy.zip
-
-/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/biker-cowboy.zip
-
-
-Funky Kong Heavy.zip
-
-/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/Funky%20Kong%20Heavy.zip
-
-
-Funky Kong.zip
-
-/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/Funky%20Kong.zip
-
-
-rosalina.zip
-
-/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/rosalina.zip
-
-
-rosalina-medium.zip
-
-/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/rosalina-medium.zip
-
-
-!Toad-heavy.zip
-
-/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/%21Toad-heavy.zip
-
-
-!Toad-medium.zip
-
-/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/%21Toad-medium.zip
-
-
-!sj1tlf-heavy.zip
-
-/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/%21sj1tlf-heavy.zip
-
-
-!sj1tlf.zip
-
-/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/%21sj1tlf.zip
-
-
-!tanque.zip
-
-/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/%21tanque.zip
-
-
-!RC-Heavy.zip
-
-/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/%21RC-Heavy.zip
-
-
-!RC-Medium.zip
-
-/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/%21RC-Medium.zip
-
-
-!boltrew-medium.zip
-
-/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/%21boltrew-medium.zip
-
-
-!cdjief-supra.zip
-
-/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/%21cdjief-supra.zip
-
-
-!cdjief-suprav2.zip
-
-/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/%21cdjief-suprav2.zip
-
-
-!monoposto-heavy.zip
-
-/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/%21monoposto-heavy.zip
-
-
-!macho-heavy.zip
-
-/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/%21macho-heavy.zip
-
-
-!ferrari-sp3-heavy.zip
-
-/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/%21ferrari-sp3-heavy.zip
-
-
-!ferrari-sp3.zip
-
-/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/%21ferrari-sp3.zip
-
-
-porche 944
-
-/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/porche944.zip
-
-
-!fordgt-heavy.zip
-
-/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/%21fordgt-heavy.zip
-
-
-!fordgt.zip
-
-/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/%21fordgt.zip
-
-
-!lamborghini-heavy.zip
-
-/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/%21lamborghini-heavy.zip
-
-
-!lamborghini.zip
-
-/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/%21lamborghini.zip
-
-
-!lanciastratus-heavy.zip
-
-/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/%21lanciastratus-heavy.zip
-
-
-!lanciastratus.zip
-
-/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/%21lanciastratus.zip
-
-
-takumi fujiwara initial d.zip
-
-/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/takumi%20fujiwara%20initial%20d.zip
-
-
-!toyotasupra-heavy.zip
-
-/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/%21toyotasupra-heavy.zip
-
-
-toyota ae86 red.zip
-
-/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/toyota%20ae86%20red.zip
-
-
-toyota ae86 trueno.zip
-
-/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/toyota%20ae86%20trueno.zip
-
-
-toyota supra kuzco heavy
-
-/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/!toyotasupra-kuzco.zip
-
-
-!mitsubishilancer-heavy.zip
-
-/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/%21mitsubishilancer-heavy.zip
-
-
-!mitsubishilancer.zip
-
-/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/%21mitsubishilancer.zip
-
-
-!xue-supra-medium.zip
-
-/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/%21xue-supra-medium.zip
-
-
-!pidgin-wild-wing-heavy.zip
-
-/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/%21pidgin-wild-wing-heavy.zip
-
-
-!pidgin-wild-wing.zip
-
-/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/%21pidgin-wild-wing.zip
-
-
-!geniustux-heavy.zip
-
-/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/%21geniustux-heavy.zip
-
-
-!geniustux.zip
-
-/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/%21geniustux.zip
-
-
-!Sonic-heavy.zip
-
-/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/%21Sonic-heavy.zip
-
-
-!Sonic.zip
-
-/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/%21Sonic.zip
-
-
-mario 64
-
-/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/!MARIO64.zip
-
-
-!mario.zip
-
-/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/%21mario.zip
-
-
-!Homersimpson-heavy.zip
-
-/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/%21Homersimpson-heavy.zip
-
-
-!Homersimpson.zip
-
-/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/%21Homersimpson.zip
-
-
-!chuck-heavy.zip
-
-/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/%21chuck-heavy.zip
-
-
-!chuck.zip
-
-/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/%21chuck.zip
-
-
-!Red-heavy.zip
-
-/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/%21Red-heavy.zip
-
-
-!Red-medium.zip
-
-/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/%21Red-medium.zip
-
-
-
-
+you can find normal karts at end from the list : (both heavy and medium categories)
 
 
 #NFS
@@ -651,3 +388,253 @@ mitsubishi lancer 500cc
 
 /installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!mitsubishlancer-500cc.zip
 
+
+
+
+
+# normal karts :
+
+
+!biker-cowboy-heavy.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/%21biker-cowboy-heavy.zip
+
+
+biker-cowboy.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/biker-cowboy.zip
+
+
+Funky Kong Heavy.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/Funky%20Kong%20Heavy.zip
+
+
+Funky Kong.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/Funky%20Kong.zip
+
+
+rosalina.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/rosalina.zip
+
+
+rosalina-medium.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/rosalina-medium.zip
+
+
+!Toad-heavy.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/%21Toad-heavy.zip
+
+
+!Toad-medium.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/%21Toad-medium.zip
+
+
+!sj1tlf-heavy.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/%21sj1tlf-heavy.zip
+
+
+!sj1tlf.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/%21sj1tlf.zip
+
+
+!tanque.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/%21tanque.zip
+
+
+!RC-Heavy.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/%21RC-Heavy.zip
+
+
+!RC-Medium.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/%21RC-Medium.zip
+
+
+!boltrew-medium.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/%21boltrew-medium.zip
+
+
+!cdjief-supra.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/%21cdjief-supra.zip
+
+
+!cdjief-suprav2.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/%21cdjief-suprav2.zip
+
+
+!monoposto-heavy.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/%21monoposto-heavy.zip
+
+
+!macho-heavy.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/%21macho-heavy.zip
+
+
+!ferrari-sp3-heavy.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/%21ferrari-sp3-heavy.zip
+
+
+!ferrari-sp3.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/%21ferrari-sp3.zip
+
+
+porche 944
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/porche944.zip
+
+
+!fordgt-heavy.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/%21fordgt-heavy.zip
+
+
+!fordgt.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/%21fordgt.zip
+
+
+!lamborghini-heavy.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/%21lamborghini-heavy.zip
+
+
+!lamborghini.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/%21lamborghini.zip
+
+
+!lanciastratus-heavy.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/%21lanciastratus-heavy.zip
+
+
+!lanciastratus.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/%21lanciastratus.zip
+
+
+takumi fujiwara initial d.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/takumi%20fujiwara%20initial%20d.zip
+
+
+!toyotasupra-heavy.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/%21toyotasupra-heavy.zip
+
+
+toyota ae86 red.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/toyota%20ae86%20red.zip
+
+
+toyota ae86 trueno.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/toyota%20ae86%20trueno.zip
+
+
+toyota supra kuzco heavy
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/!toyotasupra-kuzco.zip
+
+
+!mitsubishilancer-heavy.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/%21mitsubishilancer-heavy.zip
+
+
+!mitsubishilancer.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/%21mitsubishilancer.zip
+
+
+!xue-supra-medium.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/%21xue-supra-medium.zip
+
+
+!pidgin-wild-wing-heavy.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/%21pidgin-wild-wing-heavy.zip
+
+
+!pidgin-wild-wing.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/%21pidgin-wild-wing.zip
+
+
+!geniustux-heavy.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/%21geniustux-heavy.zip
+
+
+!geniustux.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/%21geniustux.zip
+
+
+!Sonic-heavy.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/%21Sonic-heavy.zip
+
+
+!Sonic.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/%21Sonic.zip
+
+
+mario 64
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/!MARIO64.zip
+
+
+!mario.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/%21mario.zip
+
+
+!Homersimpson-heavy.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/%21Homersimpson-heavy.zip
+
+
+!Homersimpson.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/%21Homersimpson.zip
+
+
+!chuck-heavy.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/%21chuck-heavy.zip
+
+
+!chuck.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/%21chuck.zip
+
+
+!Red-heavy.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/%21Red-heavy.zip
+
+
+!Red-medium.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/%21Red-medium.zip
