@@ -1,6 +1,7 @@
-use this commands to install the karts (while you are in the chatroom lobby in a server in super tux kart online mode only).
+use that commands below to install the karts (while you are in the chatroom lobby in a server in super tux kart online mode only).
 
-you can find normal karts at end from the list : (both heavy and medium categories)
+
+* you can find normal karts at end from the list : (both heavy and medium categories)
 
 
 #NFS
