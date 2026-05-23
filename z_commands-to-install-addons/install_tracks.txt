@@ -1,4 +1,6 @@
-use this commands to install the tracks while you are in the chatroom lobby in a server in super tux kart online mode .
+use that commands to install the tracks available below (while you are in the chatroom lobby in a server in super tux kart online mode only).
+
+
 
 gbasw.zip
 
