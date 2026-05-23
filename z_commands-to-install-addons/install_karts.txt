@@ -1,4 +1,4 @@
-use this commands to install the games while you are in the chatroom lobby in a server in super tux kart .
+use this commands to install the kars while you are in the chatroom lobby in a server in super tux kart online mode.
 
 you can find normal karts at end from the list : (both heavy and medium categories)
 
