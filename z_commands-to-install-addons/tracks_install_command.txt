@@ -1,0 +1,343 @@
+use this commands to install the tracks while you are in the chatroom lobby in a server in super tux kart online mode .
+
+gbasw.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/gbasw.zip
+
+
+CTGPSecretSlide.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/CTGPSecretSlide.zip
+
+
+DSYoshiFalls.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/DSYoshiFalls.zip
+
+
+MTGYoshiSkyway.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/MTGYoshiSkyway.zip
+
+
+WRLDMarioBrosCircuit.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/WRLDMarioBrosCircuit.zip
+
+
+WaluigiStadium.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/WaluigiStadium.zip
+
+
+agbsky.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/agbsky.zip
+
+
+asplain.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/asplain.zip
+
+
+desertraceway.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/desertraceway.zip
+
+
+endurancerun.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/endurancerun.zip
+
+
+foggybridge.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/foggybridge.zip
+
+
+lagoonraceway.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/lagoonraceway.zip
+
+
+lavarunraceway.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/lavarunraceway.zip
+
+
+n64-bowsers-castle.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/n64-bowsers-castle.zip
+
+
+n64ws.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/n64ws.zip
+
+
+ninjatempleraceway.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/ninjatempleraceway.zip
+
+
+ovalraceway.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/ovalraceway.zip
+
+
+riverraceway.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/riverraceway.zip
+
+
+snowmountainraceway.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/snowmountainraceway.zip
+
+
+sunnybeachraceway.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/sunnybeachraceway.zip
+
+
+wiiddr (dry dry ruins)
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/wiiddr.zip
+
+
+Shroom ridge
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/ShroomRidge.zip
+
+
+GCN Sherbet land
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/GCNSherbetLand.zip
+
+
+Mushroom city
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/mushroomcity.zip
+
+
+the savannah of africa
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/thesavannaofafrica.zip
+
+
+gcnmb (gcn mushroom bridge)
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/gcnmb.zip
+
+
+gbapc (peach circuit gba)
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/gbapc.zip
+
+
+CTGPCastleofTime.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/CTGPCastleofTime.zip
+
+
+beyondighthouse.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/beyondighthouse.zip
+
+
+wildlifejungleruins.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/wildlifejungleruins.zip
+
+
+GCNBowserCastle.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/GCNBowserCastle.zip
+
+
+roadracesstarrynight.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/roadracesstarrynight.zip
+
+
+yoshiriverbed.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/yoshiriverbed.zip
+
+
+DSDesertHills.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/DSDesertHills.zip
+
+
+nightfestival.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/nightfestival.zip
+
+
+dsmc.zip (ds mario circuit)
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/dsmc.zip
+
+
+!oldwest.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/!oldwest.zip
+
+
+cardboardcastle.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/cardboardcastle.zip
+
+
+mario highway
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/MarioHighway.zip
+
+
+snes mario circuit 1
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/snes_mc1.zip
+
+
+gcn wario colessum
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/gcnwc.zip
+
+
+
+wreck it ralph deluxe 1
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/Wreck-It-Ralph-Deluxe.zip
+
+
+wreck it ralph deluxe 2
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/Wreck-It-Ralph-Deluxe-2.zip
+
+
+wreck it ralph deluxe 3
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/Wreck-It-Ralph-Deluxe-3.zip
+
+
+Cakeway.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/Cakeway.zip
+
+
+Frosty_Rally.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/Frosty_Rally.zip
+
+
+prenzlauroad.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/prenzlauroad.zip
+
+
+cgspacerace.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/cgspacerace.zip
+
+
+3dsccl.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/3dsccl.zip
+
+
+salzfelden.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/salzfelden.zip
+
+
+pinabashipark.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/pinabashipark.zip
+
+
+coconut-mall.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/coconut-mall.zip
+
+
+crystalcaves.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/crystalcaves.zip
+
+
+downtowndriftdocks.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/downtowndriftdocks.zip
+
+
+gmob_bangkok.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/gmob_bangkok.zip
+
+
+oceanruins_ppc.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/oceanruins_ppc.zip
+
+
+cnsw_snesmc3.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/cnsw_snesmc3.zip
+
+
+SNESChocoIsland2.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/SNESChocoIsland2.zip
+
+
+agp1wario2.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/agp1wario2.zip
+
+
+ctrskyway.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/ctrskyway.zip
+
+
+peachraceway.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/peachraceway.zip
+
+
+miner49erraceway.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/miner49erraceway.zip
+
+
+gbabp.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/gbabp.zip
+
+
+monandgo.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/monandgo.zip
+
+
+double-8-track.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/double-8-track.zip
+
+
+amazonian-journey.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/amazonian-journey.zip
+
+
+oho-land.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/oho-land.zip
+
+
+resort-going-south.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/resort-going-south.zip
+
+
