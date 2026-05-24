@@ -64,12 +64,12 @@ Linux
 -
 Karts :  ~/.local/share/supertuxkart/addons/karts/
 
-Karts flatpak path : ~/.var/app/net.supertuxkart.SuperTuxKart/data/supertuxkart/addons/karts
+  flatpak path : ~/.var/app/net.supertuxkart.SuperTuxKart/data/supertuxkart/addons/karts
 
 
 TRACKS : ~/.local/share/supertuxkart/addons/tracks/
 
-TRACKS flatpak path : /.var/app/net.supertuxkart.SuperTuxKart/data/supertuxkart/addons/tracks
+  flatpak path : /.var/app/net.supertuxkart.SuperTuxKart/data/supertuxkart/addons/tracks
 
 
 -----------------------------------------------
@@ -94,9 +94,9 @@ Windows x86 version :   C:\Program Files (x86)\SuperTuxKart\data\kart_charact
 
 macOS :	/Applications/SuperTuxKart.app/Contents/Resources/data/kart_characteristics.xml
 
-path 2 :  /Applications/SuperTuxKart.app/Contents/Resources/supertuxkart/data/kart_characteristics.xml
+   /Applications/SuperTuxKart.app/Contents/Resources/supertuxkart/data/kart_characteristics.xml
 
-path 3 : ~/Library/Application Support/supertuxkart/data/kart_characteristics.xml
+   ~/Library/Application Support/supertuxkart/data/kart_characteristics.xml
 
 ---------
 
