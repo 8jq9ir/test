@@ -28,13 +28,13 @@ macOS :
 
 KARTS :   /Applications/SuperTuxKart.app/Contents/Resources/data/addons/karts 
 
-PATH 2:    ~/Library/Application Support/SuperTuxKart/Addons/Karts
+    ~/Library/Application Support/SuperTuxKart/Addons/Karts
 
 -
 
 TRACKS :    /Applications/SuperTuxKart.app/Contents/Resources/data/addons/tracks
 
-PATH 2 :    ~/Library/Application Support/SuperTuxKart/Addons/Tracks
+    ~/Library/Application Support/SuperTuxKart/Addons/Tracks
 
 
 ---------
