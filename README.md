@@ -26,9 +26,14 @@ macOS :
 -
 -
 
-KARTS :   ~/Library/Application Support/SuperTuxKart/Addons/Karts
+KARTS :   /Applications/SuperTuxKart.app/Contents/Resources/data/addons/karts 
 
-TRACKS :   ~/Library/Application Support/SuperTuxKart/Addons/Tracks
+PATH 2: ~/Library/Application Support/SuperTuxKart/Addons/Karts
+
+
+TRACKS : /Applications/SuperTuxKart.app/Contents/Resources/data/addons/tracks
+
+PATH 2 : ~/Library/Application Support/SuperTuxKart/Addons/Tracks
 
 
 ---------
@@ -58,27 +63,13 @@ Linux
 -
 Karts :  ~/.local/share/supertuxkart/addons/karts/
 
+Karts flatpak path : ~/.var/app/net.supertuxkart.SuperTuxKart/data/supertuxkart/addons/karts
+
+
 TRACKS : ~/.local/share/supertuxkart/addons/tracks/
 
+TRACKS flatpak path : /.var/app/net.supertuxkart.SuperTuxKart/data/supertuxkart/addons/tracks
 
----------
-
-Linux flatpak (command terminal):
--
--
-''dolpin file manager''
-
-KARTS:  dolphin ~/.var/app/net.supertuxkart.SuperTuxKart/data/supertuxkart/addons/karts & disown
-
-TRACKS : dolphin ~/.var/app/net.supertuxkart.SuperTuxKart/data/supertuxkart/addons/tracks & disown
-
--
-
-''thunar file manager''
-
-KARTS:  thunar ~/.var/app/net.supertuxkart.SuperTuxKart/data/supertuxkart/addons/karts & disown
-
-TRACKS : thunar ~/.var/app/net.supertuxkart.SuperTuxKart/data/supertuxkart/addons/tracks & disown
 
 -----------------------------------------------
 -
@@ -101,19 +92,19 @@ Windows x86 version :   C:\Program Files (x86)\SuperTuxKart\data\kart_charact
 ---------
 
 macOS :	/Applications/SuperTuxKart.app/Contents/Resources/data/kart_characteristics.xml
--
+
 path 2 :  /Applications/SuperTuxKart.app/Contents/Resources/supertuxkart/data/kart_characteristics.xml
--
+
 path 3 : ~/Library/Application Support/supertuxkart/data/kart_characteristics.xml
--
+
 ---------
 
 Linux	/usr/share/supertuxkart/data/kart_characteristics.xml
--
+
 snap   /snap/supertuxkart/current/usr/share/supertuxkart/data/kart_characteristics.xml
--
+
 flatpak  /var/lib/flatpak/app/net.supertuxkartSuperTuxKart/x86_64/stable/active/files/share/supertuxkart/data/kart_characteristics.xml
-.
+
 ---------
 
 Android :   Android/data/org.supertuxkart.stk/files/supertuxkart/data/kart_characteristics.xml
