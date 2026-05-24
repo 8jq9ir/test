@@ -100,38 +100,25 @@ Windows x86 version :   C:\Program Files (x86)\SuperTuxKart\data\kart_charact
 
 ---------
 
-macOS :   ~/Library/Application Support/supertuxkart/data/kart_characteristics.xml
-
+macOS :	/Applications/SuperTuxKart.app/Contents/Resources/data/kart_characteristics.xml
+-
+path 2 :  /Applications/SuperTuxKart.app/Contents/Resources/supertuxkart/data/kart_characteristics.xml
+-
+path 3 : ~/Library/Application Support/supertuxkart/data/kart_characteristics.xml
+-
 ---------
 
-Linux :   /usr/share/supertuxkart/data/kart_characteristics.xml
-
-
+Linux	/usr/share/supertuxkart/data/kart_characteristics.xml
+-
+snap   /snap/supertuxkart/current/usr/share/supertuxkart/data/kart_characteristics.xml
+-
+flatpak  /var/lib/flatpak/app/net.supertuxkartSuperTuxKart/x86_64/stable/active/files/share/supertuxkart/data/kart_characteristics.xml
+.
 ---------
 
 Android :   Android/data/org.supertuxkart.stk/files/supertuxkart/data/kart_characteristics.xml
 
 full path :   /storage/emulated/0/Android/data/org.supertuxkart.stk/files/supertuxkart/data/kart_characteristics.xml
-
-
----------
-
-
-Linux flatpak (command terminal) 
-
--
-
-''dolphin file manager''
-
-sudo dolphin /var/lib/flatpak/app/net.supertuxkartSuperTuxKart/x86_64/stable/active/files/share/supertuxkart/data/kart_characteristics.xml
-
--
-
-''thunar file manager''
-
-sudo thunar /var/lib/flatpak/app/net.supertuxkart.SuperTuxKart/current/active/files/share/supertuxkart/data/kart_characteristics.xml
-
------------------------------------------
 
 
 ---------
