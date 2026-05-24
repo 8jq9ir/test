@@ -66,6 +66,7 @@ Karts :  ~/.local/share/supertuxkart/addons/karts/
 
   flatpak path : ~/.var/app/net.supertuxkart.SuperTuxKart/data/supertuxkart/addons/karts
 
+-
 
 TRACKS : ~/.local/share/supertuxkart/addons/tracks/
 
