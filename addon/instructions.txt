@@ -1,0 +1,38 @@
+*300cc karts folders and addon folder :
+-
+
+and if you want to try karts with custom speed levels (more speed) check the addon folder where i include kart_characteristics.xml file (you need to manually install it in a way to be able to play with the karts with custom speed available in the 300cc folder.)
+
+
+location for kart_characteristics.xml :
+-
+---------
+
+Windows :   C:\Program Files\SuperTuxKart\data\kart_characteristics.xml
+
+Windows x86 version :   C:\Program Files (x86)\SuperTuxKart\data\kart_characteristics.xml
+
+---------
+
+macOS :	/Applications/SuperTuxKart.app/Contents/Resources/data/kart_characteristics.xml
+
+   /Applications/SuperTuxKart.app/Contents/Resources/supertuxkart/data/kart_characteristics.xml
+
+   ~/Library/Application Support/supertuxkart/data/kart_characteristics.xml
+
+---------
+
+Linux	/usr/share/supertuxkart/data/kart_characteristics.xml
+
+snap   /snap/supertuxkart/current/usr/share/supertuxkart/data/kart_characteristics.xml
+
+flatpak  /var/lib/flatpak/app/net.supertuxkartSuperTuxKart/x86_64/stable/active/files/share/supertuxkart/data/kart_characteristics.xml
+
+---------
+
+Android :   Android/data/org.supertuxkart.stk/files/supertuxkart/data/kart_characteristics.xml
+
+full path :   /storage/emulated/0/Android/data/org.supertuxkart.stk/files/supertuxkart/data/kart_characteristics.xml
+
+
+---------
