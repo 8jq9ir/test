@@ -62,15 +62,15 @@ Android/data/org.supertuxkart.stk/files/supertuxkart/home/.local/share/supertuxk
 Linux	
 -
 -
-Karts :  ~/.local/share/supertuxkart/addons/karts/
+Karts :    ~/.local/share/supertuxkart/addons/karts/
 
-  flatpak path : ~/.var/app/net.supertuxkart.SuperTuxKart/data/supertuxkart/addons/karts
+  flatpak path :   ~/.var/app/net.supertuxkart.SuperTuxKart/data/supertuxkart/addons/karts
 
 -
 
-TRACKS : ~/.local/share/supertuxkart/addons/tracks/
+TRACKS :   ~/.local/share/supertuxkart/addons/tracks/
 
-  flatpak path : /.var/app/net.supertuxkart.SuperTuxKart/data/supertuxkart/addons/tracks
+  flatpak path :   /.var/app/net.supertuxkart.SuperTuxKart/data/supertuxkart/addons/tracks
 
 
 -----------------------------------------------
