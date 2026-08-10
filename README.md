@@ -26,15 +26,11 @@ macOS :
 -
 -
 
-KARTS :   /Applications/SuperTuxKart.app/Contents/Resources/data/addons/karts 
-
-    ~/Library/Application Support/SuperTuxKart/Addons/Karts
+KARTS :   ~/Library/Application Support/SuperTuxKart/Addons/Karts 
 
 -
 
-TRACKS :    /Applications/SuperTuxKart.app/Contents/Resources/data/addons/tracks
-
-    ~/Library/Application Support/SuperTuxKart/Addons/Tracks
+TRACKS :    ~/Library/Application Support/SuperTuxKart/Addons/Tracks
 
 
 ---------
@@ -94,10 +90,6 @@ Windows x86 version :   C:\Program Files (x86)\SuperTuxKart\data\kart_charact
 ---------
 
 macOS :	/Applications/SuperTuxKart.app/Contents/Resources/data/kart_characteristics.xml
-
-   /Applications/SuperTuxKart.app/Contents/Resources/supertuxkart/data/kart_characteristics.xml
-
-   ~/Library/Application Support/supertuxkart/data/kart_characteristics.xml
 
 ---------
 
