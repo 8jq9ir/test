@@ -1,7 +1,13 @@
+Copy the command below from the kart you wanna install . Then, in SuperTuxKart, join a server from the online list and wait 
+until chat from the server loads . Press Ctrl + V to paste the command into the chatroom message typing option , then send 
+the message. After it appears, click the link in the message to install the kart.  
+
+info : (if you don't want to join into online mode you can create your own server in lan mode and then pasting the command
+, just to remember this method only works on computer version from the game !)
+
 
 
 #400cc
-
 
 rc 400cc kart
 
