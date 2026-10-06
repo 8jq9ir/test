@@ -4,3 +4,51 @@ the message. After it appears, click the link in the message to install the kart
 
 info : (if you don't want to join into online mode you can create your own server in lan mode and then pasting the command
 , just to remember this method only works on computer version from the game !)
+
+
+#300CC
+
+
+Funky kong 300cc
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!Funky-Kong-300cc.zip
+
+
+Tanque 300cc
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!tanque-300cc.zip
+
+
+Link moto 300cc
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!link-moto-300cc.zip
+
+
+!Toad-300cc.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!Toad-300cc.zip
+
+
+!carrot-300cc.zip 
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!carrot-300cc.zip
+
+
+!lamborghini-300cc.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!lamborghini-300cc.zip
+
+
+!mazda-173rx-mk2-300cc.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!mazda-173rx-mk2-300cc.zip
+
+
+!toyotasupra-300cc.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!toyotasupra-300cc.zip
+
+
+!xue-supra-300cc.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!xue-supra-300cc.zip
