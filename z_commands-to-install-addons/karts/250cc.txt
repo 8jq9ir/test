@@ -6,3 +6,70 @@ info : (if you don't want to join into online mode you can create your own serve
 , just to remember this method only works on computer version from the game !)
 
 
+#250cc
+
+
+!lightningmcqueen-250cc
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!lightningmcqueen-250cc.zip
+
+
+!biker cowboy 250cc
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!biker-cowboy-250cc.zip
+
+
+!Funky-kong-250cc.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!Funky-kong-250cc.zip
+
+
+monoposto 250cc
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!monoposto-250cc.zip
+
+
+!pidgin-wild-wing-250cc.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!pidgin-wild-wing-250cc.zip
+
+
+!aggro-250cc.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/
+
+
+!chuck-250cc.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!chuck-250cc.zip
+
+
+homer simpson 250cc
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!Homersimpson-250cc.zip
+
+
+sonic 250cc
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!Sonic-250cc.zip
+
+
+pacman 250cc
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!pacman-250cc.zip
+
+
+mario 64 shell 250cc
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!MARIO64-250cc.zip
+
+
+rayman 250cc
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!rayman-250cc.zip
+
+
+!Steve-250cc.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!Steve-250cc.zip
+
