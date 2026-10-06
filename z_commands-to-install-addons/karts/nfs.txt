@@ -1,0 +1,397 @@
+#NFS
+
+!Funky-kong-mini-nfs.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!Funky-kong-mini-nfs.zip
+
+
+!diddykongmoto-nfs.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!diddykongmoto-nfs.zip
+
+
+!gustavlegrand-nfs.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!gustavlegrand-nfs.zip
+
+
+!snips-skate-nfs.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!snips-skate-nfs.zip
+
+
+!moto1-nfs.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!moto1-nfs.zip
+
+
+!minionmoto-nfs.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!minionmoto-nfs.zip
+
+
+!shaggymoto-nfs.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!shaggymoto-nfs.zip
+
+
+!asterixmoto-nfs.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!asterixmoto-nfs.zip
+
+
+!idefixskate-nfs.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!idefixskate-nfs.zip
+
+
+!obelixmoto-nfs.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!obelixmoto-nfs.zip
+
+
+!lcbike-nfs.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!lcbike-nfs.zip
+
+
+!kuzcomoto-nfs.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!kuzcomoto-nfs.zip
+
+
+!donramon-nfs.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!donramon-nfs.zip
+
+
+!jakelongskate-nfs.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!jakelongskate-nfs.zip
+
+
+!jaxoncross-nfs.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!jaxoncross-nfs.zip
+
+
+!guaka-nfs.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!guaka-nfs.zip
+
+
+cloud-nfs.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!cloud-nfs.zip
+
+
+!goku-nfs.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!goku-nfs.zip
+
+
+!lanciadelta-nfs.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!lanciadelta-nfs.zip
+
+
+!ferrari-sp3-mini-nfs.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!ferrari-sp3-mini-nfs.zip
+
+
+!bartsimpsonboltrew-nfs.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!bartsimpsonboltrew-nfs.zip
+
+
+!1onecrossboltrew-nfs.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!1onecrossboltrew-nfs.zip
+
+
+!boltrew-pacman-nfs.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!boltrew-pacman-nfs.zip
+
+
+!toad-moto-nfs.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!toad-moto-nfs.zip
+
+
+!steve-moto-nfs.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!steve-moto-nfs.zip
+
+
+!fredflintstonemoto-nfs.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!fredflintstonemoto-nfs.zip
+
+
+!pikachu-moto-nfs.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!pikachu-moto-nfs.zip
+
+
+!foxmoto-nfs.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!foxmoto-nfs.zip
+
+
+!megaman-moto-nfs.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!megaman-moto-nfs.zip
+
+
+!pacman-moto-nfs.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!pacman-moto-nfs.zip
+
+
+!kiki-moto-nfs.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!kiki-moto-nfs.zip
+
+
+!sonic-moto-nfs.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!sonic-moto-nfs.zip
+
+
+!lightningmcqueen-nfs.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!lightningmcqueen-nfs.zip
+
+
+!Tow_Mater-nfs.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!Tow_Mater-nfs.zip
+
+
+!crashbandicootmoto-nfs.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!crashbandicootmoto-nfs.zip
+
+
+monoposto nfs 
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!monoposto-nfs.zip
+
+
+!x-moto-nfs.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!x-moto-nfs.zip
+
+
+biker cowboy nfs
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!biker-cowboy-nfs.zip
+
+
+funky kong nfs
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!Funky-kong-nfs.zip
+
+
+toad nfs
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!Toad-nfs.zip
+
+
+rosalina NFS
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!rosalina-nfs.zip
+
+
+!the-doise-nfs.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!the-doise-nfs.zip
+
+
+!carrot-nfs.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!carrot-nfs.zip
+
+
+snes mario nfs
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!snesmario-nfs.zip
+
+
+mario nfs
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!mario-nfs.zip
+
+
+speed star nfs
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!speed-star-nfs.zip
+
+
+!macho-nfs.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!macho-nfs.zip
+
+
+!jalapeno-nfs.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!jalapeno-nfs.zip
+
+
+ford mustang nfs
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!fordmustang-nfs.zip
+
+
+!toyota-ae86-red-nfs.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!toyota-ae86-red-nfs.zip
+
+
+nissan skyline nfs
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!nissan-skyline-nfs.zip
+
+/installaddon https://code.nolog.cz/sj1tlf/pages/raw/branch/main/stk/300cc/%21nissan-skyline-nfs.zip
+
+
+!fordgt-nfs.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!fordgt-nfs.zip
+
+
+!takumifujiwara-nfs.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!takumifujiwara-nfs.zip
+
+
+boltrew nfs
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!boltrew-nfs.zip
+
+
+!mitsubishlancer-nfs.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!mitsubishlancer-nfs.zip
+
+
+!mclarenf1xp5-nfs.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!mclarenf1xp5-nfs.zip
+
+
+AF21 NFS
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!af21-nfs.zip
+
+
+genius tux nfs
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!geniustux-nfs.zip
+
+
+toyota supra kuzco nfs
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!toyotasupra-kuzco-nfs.zip
+
+
+Yoshi NFS
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!Yoshi-nfs.zip
+
+
+Luigi NFS
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!luigi-nfs.zip
+
+
+Luigi cars NFS
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!luigi-cars-nfs.zip
+
+
+garo the dragon nfs
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!garo-nfs.zip
+
+
+koopa troopa nfs
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!Koopa-Troopa-nfs.zip
+
+
+megaman nfs
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!megaman-nfs.zip
+
+
+!Sonic-nfs.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!Sonic-nfs.zip
+
+
+Pacman NFS
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!pacman-nfs.zip
+
+
+metal mario nfs
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!Metal-mario-nfs.zip
+
+
+shrek nfs
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!shrek-nfs.zip
+
+
+!waluigi-bus-driver.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!waluigi-bus-driver.zip
+
+
+wario nfs
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!wario-nfs.zip
+
+
+!mystery-machine-nfs.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!mystery-machine-nfs.zip
+
+
+xochita nfs
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!xochita-nfs.zip
+
+
+thomas the tank engine
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!ThomasTheTankEngine-nfs.zip
+
+
+hyperm-nfs
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!hyperm-nfs.zip
+
+
+!rougethebat-nfs.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!rougethebat-nfs.zip
+
+
+!W05_Alice.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!W05_Alice.zip
+
+
+!Rumialkaz-nfs.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!Rumialkaz-nfs.zip
+
+
+!boltrew-small-ofc-nfsz.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!boltrew-small-ofc-nfs.zip
