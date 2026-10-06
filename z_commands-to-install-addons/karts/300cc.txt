@@ -1,1 +1,130 @@
+Copy the command below from the kart you wanna install . Then, in SuperTuxKart, join a server from the online list and wait 
+until chat from the server loads . Press Ctrl + V to paste the command into the chatroom message typing option , then send 
+the message. After it appears, click the link in the message to install the kart.  
 
+info : (if you don't want to join into online mode you can create your own server in lan mode and then pasting the command
+, just to remember this method only works on computer version from the game !)
+
+
+
+#nodrift
+------------
+
+!lemmingtrotinete-nodrift.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!lemmingtrotinete-nodrift.zip
+
+
+!lisatrotinete-nodrift.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!lisatrotinete-nodrift.zip
+
+
+!brainfreezermoto-nodrift.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!brainfreezermoto-nodrift.zip
+
+
+!gustavlegrand-nodrift.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!gustavlegrand-nodrift.zip
+
+
+!shaggymoto-nodrift
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!shaggymoto-nodrift.zip
+
+
+!kuzcomoto-nodrift
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!kuzcomoto-nodrift.zip
+
+
+!jaxoncross-nodrift
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!jaxoncross-nodrift.zip
+
+
+!djcar-nodrift.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!djcar-nodrift.zip
+
+
+!wingo-nodrift.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!wingo-nodrift.zip
+
+
+!tokyomater-nodrift.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!tokyomater-nodrift.zip
+
+
+!snotrodcar-nodrift.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!snotrodcar-nodrift.zip
+
+
+!boostcar-nodrift.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!boostcar-nodrift.zip
+
+
+!Lanciadelta-nodrift
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!lanciadelta-nodrift.zip
+
+
+!speedracer-nodrift.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!speedracer-nodrift.zip
+
+
+!kronkmoto-nodrift.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!kronkmoto-nodrift.zip
+
+
+!guaka-nodrift.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!guaka-nodrift.zip
+
+
+!scoobydoof1-nodrift.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!scoobydoof1-nodrift.zip
+
+
+!pipsqueak-nodrift.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!pipsqueak-nodrift.zip
+
+
+!blistagt-nodrift.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!blistagt-nodrift.zip
+
+
+!smallkonqi-nodrift.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!smallkonqi-nodrift.zip
+
+
+!elchavo-nodrift.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!elchavo-nodrift.zip
+
+
+!grizzymoto-nodrift.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!grizzymoto-nodrift.zip
+
+
+!spongebob-nodrift.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!spongebob-nodrift.zip
+
+
+!penguinsmadagascar-nodrift.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!penguinsmadagascar-nodrift.zip
