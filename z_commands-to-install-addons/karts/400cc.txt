@@ -1,0 +1,32 @@
+
+
+#400cc
+
+
+rc 400cc kart
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!RC-400cc.zip
+
+
+Guido 400cc kart
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!Guido-400cc.zip
+
+
+biker cowboy 400cc
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!biker-cowboy-400cc.zip
+
+
+mario 64 400cc
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!MARIO64-400cc.zip
+
+
+boltrew 400cc
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!boltrew-400cc.zip
+
+
+
+
