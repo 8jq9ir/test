@@ -1,0 +1,38 @@
+Copy the command below from the kart you wanna install . Then, in SuperTuxKart, join a server from the online list and wait 
+until chat from the server loads . Press Ctrl + V to paste the command into the chatroom message typing option , then send 
+the message. After it appears, click the link in the message to install the kart.  
+
+info : (if you don't want to join into online mode you can create your own server in lan mode and then pasting the command
+, just to remember this method only works on computer version from the game !)
+
+
+#500cc
+
+!lanciadelta-500cc.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!lanciadelta-500cc.zip
+
+
+biker cowboy 500cc
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!biker-cowboy-500cc.zip
+
+
+
+boltrew 500cc
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!boltrew-500cc.zip
+
+
+ford gt 500cc 
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!fordgt-500cc.zip
+
+
+mitsubishi lancer 500cc
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!mitsubishlancer-500cc.zip
+
+/installaddon https://code.nolog.cz/sj1tlf/pages/raw/branch/main/stk/300cc/!mitsubishlancer-500cc.zip
+
+
