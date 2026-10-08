@@ -35,6 +35,22 @@ TRACKS :    ~/Library/Application Support/SuperTuxKart/Addons/Tracks
 
 ---------
 
+Linux	
+-
+-
+Karts :    ~/.local/share/supertuxkart/addons/karts/
+
+  flatpak path :   ~/.var/app/net.supertuxkart.SuperTuxKart/data/supertuxkart/addons/karts
+
+-
+
+TRACKS :   ~/.local/share/supertuxkart/addons/tracks/
+
+  flatpak path :   /.var/app/net.supertuxkart.SuperTuxKart/data/supertuxkart/addons/tracks
+
+
+-----------------------------------------------
+
 Android  
 -
 -
@@ -54,22 +70,6 @@ Android/data/org.supertuxkart.stk/files/supertuxkart/home/.local/share/supertuxk
 
 
 ---------
-
-Linux	
--
--
-Karts :    ~/.local/share/supertuxkart/addons/karts/
-
-  flatpak path :   ~/.var/app/net.supertuxkart.SuperTuxKart/data/supertuxkart/addons/karts
-
--
-
-TRACKS :   ~/.local/share/supertuxkart/addons/tracks/
-
-  flatpak path :   /.var/app/net.supertuxkart.SuperTuxKart/data/supertuxkart/addons/tracks
-
-
------------------------------------------------
 -
 -
 -
@@ -93,17 +93,29 @@ macOS :	/Applications/SuperTuxKart.app/Contents/Resources/data/kart_characterist
 
 ---------
 
-Linux	/usr/share/supertuxkart/data/kart_characteristics.xml
+Linux APT  /usr/share/games/supertuxkart/data/kart_characteristics.xml
 
-snap   /snap/supertuxkart/current/usr/share/supertuxkart/data/kart_characteristics.xml
+Linux path2  /usr/share/supertuxkart/data/kart_characteristics.xml
 
 flatpak  /var/lib/flatpak/app/net.supertuxkartSuperTuxKart/x86_64/stable/active/files/share/supertuxkart/data/kart_characteristics.xml
+
+snap   /snap/supertuxkart/current/usr/share/supertuxkart/data/kart_characteristics.xml
 
 ---------
 
 Android :   Android/data/org.supertuxkart.stk/files/supertuxkart/data/kart_characteristics.xml
 
 full path :   /storage/emulated/0/Android/data/org.supertuxkart.stk/files/supertuxkart/data/kart_characteristics.xml
+
+---------
+
+NIX OS :  /nix/store/<hash>-supertuxkart-1.5/share/supertuxkart/data/karts/kart_characteristics.xml
+
+---------
+
+FREE BSD :  /usr/local/share/supertuxkart/data/kart_characteristics.xml
+
+---------
 
 
 ---------
