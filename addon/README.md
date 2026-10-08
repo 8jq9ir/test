@@ -22,15 +22,15 @@ Windows x86 version :   C:\Program Files (x86)\SuperTuxKart\data\kart_charact
 
 ---------
 
-macOS :	/Applications/SuperTuxKart.app/Contents/Resources/data/kart_characteristics.xml
+macOS :   /Applications/SuperTuxKart.app/Contents/Resources/data/kart_characteristics.xml
 
 ---------
 
-Linux	/usr/share/supertuxkart/data/kart_characteristics.xml
+Linux   /usr/share/supertuxkart/data/kart_characteristics.xml
 
-snap   /snap/supertuxkart/current/usr/share/supertuxkart/data/kart_characteristics.xml
+snap   /snap/supertuxkart/current/usr/share/supertuxkart/data/kart_characteristics.xml
 
-flatpak  /var/lib/flatpak/app/net.supertuxkartSuperTuxKart/x86_64/stable/active/files/share/supertuxkart/data/kart_characteristics.xml
+flatpak   /var/lib/flatpak/app/net.supertuxkartSuperTuxKart/x86_64/stable/active/files/share/supertuxkart/data/kart_characteristics.xml
 
 ---------
 
@@ -60,36 +60,36 @@ move or copy the folders with karts names inside in the following locations :
 
 Windows : 
 
-Karts:  %APPDATA%\supertuxkart\addons\karts 
+Karts:   %APPDATA%\supertuxkart\addons\karts 
 
-or full path :  C:\Users\<YourUsername>\Documents\My Games\SuperTuxKart\addons\karts\
+or full path :   C:\Users\<YourUsername>\Documents\My Games\SuperTuxKart\addons\karts\
 
 
 ---------
 
 macOS :
 
-KARTS :   ~/Library/Application Support/SuperTuxKart/Addons/Karts
+KARTS :   ~/Library/Application Support/SuperTuxKart/Addons/Karts
 
 ---------
 
 Linux	
 
 
-Karts :  ~/.local/share/supertuxkart/addons/karts/
+Karts :   ~/.local/share/supertuxkart/addons/karts/
 
-Karts flatpak path : ~/.var/app/net.supertuxkart.SuperTuxKart/data/supertuxkart/addons/karts
+Karts flatpak path :   ~/.var/app/net.supertuxkart.SuperTuxKart/data/supertuxkart/addons/karts
 
-Karts snap path : ~/snap/supertuxkart/current/.local/share/supertuxkart/addons/karts/
+Karts snap path :   ~/snap/supertuxkart/current/.local/share/supertuxkart/addons/karts/
 
 ---------
 
 Android  
 
 
-KARTS :   Android/data/org.supertuxkart.stk/files/supertuxkart/home/.local/share/supertuxkart/addons/karts
+KARTS :   Android/data/org.supertuxkart.stk/files/supertuxkart/home/.local/share/supertuxkart/addons/karts
 
-full path : /storage/emulated/0/Android/data/org.supertuxkart.stk/files/supertuxkart/home/.local/share/supertuxkart/addons/karts
+full path :  /storage/emulated/0/Android/data/org.supertuxkart.stk/files/supertuxkart/home/.local/share/supertuxkart/addons/karts
 
 ---------
 
