@@ -33,3 +33,11 @@ full path :   /storage/emulated/0/Android/data/org.supertuxkart.stk/files/sup
 
 
 ---------
+
+NIX OS :   /nix/store/<hash>-supertuxkart-1.5/share/supertuxkart/data/karts/kart_characteristics.xml
+
+---------
+
+FREE BSD :   /usr/local/share/supertuxkart/data/kart_characteristics.xml
+
+---------
