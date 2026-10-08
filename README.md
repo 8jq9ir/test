@@ -89,17 +89,17 @@ Windows x86 version :   C:\Program Files (x86)\SuperTuxKart\data\kart_charact
 
 ---------
 
-macOS :	/Applications/SuperTuxKart.app/Contents/Resources/data/kart_characteristics.xml
+macOS :	   /Applications/SuperTuxKart.app/Contents/Resources/data/kart_characteristics.xml
 
 ---------
 
-Linux APT  /usr/share/games/supertuxkart/data/kart_characteristics.xml
+Linux APT   /usr/share/games/supertuxkart/data/kart_characteristics.xml
 
-Linux path2  /usr/share/supertuxkart/data/kart_characteristics.xml
+Linux path2   /usr/share/supertuxkart/data/kart_characteristics.xml
 
-flatpak  /var/lib/flatpak/app/net.supertuxkartSuperTuxKart/x86_64/stable/active/files/share/supertuxkart/data/kart_characteristics.xml
+flatpak   /var/lib/flatpak/app/net.supertuxkartSuperTuxKart/x86_64/stable/active/files/share/supertuxkart/data/kart_characteristics.xml
 
-snap   /snap/supertuxkart/current/usr/share/supertuxkart/data/kart_characteristics.xml
+snap   /snap/supertuxkart/current/usr/share/supertuxkart/data/kart_characteristics.xml
 
 ---------
 
@@ -109,11 +109,11 @@ full path :   /storage/emulated/0/Android/data/org.supertuxkart.stk/files/sup
 
 ---------
 
-NIX OS :  /nix/store/<hash>-supertuxkart-1.5/share/supertuxkart/data/karts/kart_characteristics.xml
+NIX OS :   /nix/store/<hash>-supertuxkart-1.5/share/supertuxkart/data/karts/kart_characteristics.xml
 
 ---------
 
-FREE BSD :  /usr/local/share/supertuxkart/data/kart_characteristics.xml
+FREE BSD :   /usr/local/share/supertuxkart/data/kart_characteristics.xml
 
 ---------
 
