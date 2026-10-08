@@ -10,6 +10,7 @@ you can download kart_characteristics.zip (you need to extract it) or also downl
 
 then put kart_characteristics.xml in the following locations according with your system :
 
+-
 
 location for kart_characteristics.xml :
 -
