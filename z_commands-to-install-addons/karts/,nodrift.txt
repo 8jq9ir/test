@@ -15,6 +15,11 @@ info : (if you don't want to join into online mode you can create your own serve
 /installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!lemmingtrotinete-nodrift.zip
 
 
+!jimmyneutron-nodrift.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!jimmyneutron-nodrift.zip
+
+
 !lisatrotinete-nodrift.zip
 
 /installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!lisatrotinete-nodrift.zip
@@ -148,6 +153,91 @@ info : (if you don't want to join into online mode you can create your own serve
 !toyotacelica-nodrift.zip
 
 /installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!toyotacelica-nodrift.zip
+
+
+!peugeot205t16-nodrift.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!peugeot205t16-nodrift.zip
+
+
+!subaruimpreza-nodrift.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!subaruimpreza-nodrift.zip
+
+
+!generallee-nodrift.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!generallee-nodrift.zip
+
+
+!fordescort-nodrift.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!fordescort-nodrift.zip
+
+
+!fiat131-nodrift.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!fiat131-nodrift.zip
+
+
+!porche911-nodrift.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!porche911-nodrift.zip
+
+
+!bugattiveryon-nodrift.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!bugattiveryon-nodrift.zip
+
+
+!peugeot206-nodrift.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!peugeot206-nodrift.zip
+
+
+!fords200-nodrift.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!fords200-nodrift.zip
+
+
+!alpinea110-nodrift.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!alpinea110-nodrift.zip
+
+
+!gilfish-nodrift.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!gilfish-nodrift.zip
+
+
+!reunaultclio2003-nodrift.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!reunaultclio2003-nodrift.zip
+
+
+!patodonaldcarro-nodrift.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!patodonaldcarro-nodrift.zip
+
+
+!bartmancar-nodrift.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!bartmancar-nodrift.zip
+
+
+!paganizonda-nodrift.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!paganizonda-nodrift.zip
+
+
+!wilberf1-nodrift.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!wilberf1-nodrift.zip
+
+
+!loonacar-nodrift.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/300cc/!loonacar-nodrift.zip
 
 
 
