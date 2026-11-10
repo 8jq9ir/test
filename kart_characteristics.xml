@@ -478,19 +478,17 @@
             <nitro engine-force="*1" consumption="*0.00001" max-speed-increase="*1.49" />
             <slipstream length="*1.1" collect-time="*1.1"
                         duration-factor="*0.6" fade-out-time="*1" />
-        </characteristic>
-		<characteristic name="600cc">
-             <turn radius="0:0.5 10:3 25:6 45:17" />
-            <engine power="*3" max-speed="*2.4" brake-factor="*0.6"
-                    max-speed-reverse-ratio="*0.7" />
-            <gear switch-ratio="0.1 0.25 0.45 0.7 1 4"
-                  power-increase="3 2.9 2.7 2.5 2.35 2.2" />
-            <mass value="*1" />
-            <startup boost="*0.6 *0.6" />
-            <explosion time="*0.6" radius="*0.6" />
-            <nitro engine-force="*1" consumption="*0.79" max-speed-increase="*1.2" />
-            <slipstream length="*1.1" collect-time="*1.1"
-                   duration-factor="*0.6" fade-out-time="*1" />
+
+		   <!-- Disable skid effects -->
+		   <skid time-till-bonus="9999" bonus-speed="0" bonus-force="0" />
+    
+		   <!--disable zipper effects -->
+		   <zipper force="0" speed-gain="0" max-speed-increase="0" />
+  
+		   <!--rescue time -->
+		   <rescue duration="0.1" />
+		   
+		   <!--nodrift end -->
         </characteristic>
     </kart-types>
 
