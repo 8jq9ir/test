@@ -486,7 +486,7 @@
 		   <zipper force="0" speed-gain="0" max-speed-increase="0" />
   
 		   <!--rescue time -->
-		   <rescue duration="0.1" />
+		   <rescue duration="0.2" />
 		   
 		   <!--nodrift end -->
         </characteristic>
