@@ -433,6 +433,7 @@
             bonus-speed="5.8" bonus-time="3.0"
             bonus-force="500" enabled="true" />
             <!-- 300cc end -->
+		</characteristic>
 		<characteristic name="400cc">
             <turn radius="0:1.3 10:5.0 25:10 45:22" />
             <engine power="*4" max-speed="*1.5" brake-factor="*0.8"
