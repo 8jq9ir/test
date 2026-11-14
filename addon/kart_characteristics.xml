@@ -432,6 +432,10 @@
             min-speed="10"  time-till-bonus="0"
             bonus-speed="5.8" bonus-time="3.0"
             bonus-force="500" enabled="true" />
+			
+			<!--rescue time -->
+		   <rescue duration="0.3" />
+			
             <!-- 300cc end -->
 		</characteristic>
 		<characteristic name="400cc">
