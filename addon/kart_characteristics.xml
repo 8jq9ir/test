@@ -494,7 +494,7 @@
 		   <skid time-till-bonus="9999" bonus-speed="0" bonus-force="0" />
     
 		   <!--disable zipper effects -->
-		   <zipper force="0" speed-gain="0" max-speed-increase="0" />
+		   <zipper duration="0" force="0" speed-gain="0" max-speed-increase="0" />
   
 		   <!--zipper powerful experimental -->
 		   <!--<zipper duration="10.35" force="253.0" speed-gain="7.8" max-speed-increase="18" />-->
