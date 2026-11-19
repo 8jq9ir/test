@@ -137,6 +137,8 @@ gbapc (peach circuit gba)
 /installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/gbapc.zip
 
 
+castelo
+
 CTGPCastleofTime.zip
 
 /installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/CTGPCastleofTime.zip
@@ -283,7 +285,7 @@ oceanruins_ppc.zip
 /installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/oceanruins_ppc.zip
 
 
-cnsw_snesmc3.zip
+cnsw_snesmc3.zip (snes mario circuit 3)
 
 /installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/cnsw_snesmc3.zip
 
@@ -341,5 +343,440 @@ oho-land.zip
 resort-going-south.zip
 
 /installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/resort-going-south.zip
+
+
+shipayi park
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/shipayipark.zip
+
+
+city-lights_1.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/city-lights_1.zip
+
+
+casino-city.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/casino-city.zip
+
+
+art-museum.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/art-museum.zip
+
+
+rv-school-s-out-2.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/rv-school-s-out-2.zip
+
+
+scary-swamp-x.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/scary-swamp-x.zip
+
+
+mesa-party.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/mesa-party.zip
+
+
+moebius-track-2.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/moebius-track-2.zip
+
+
+blooming-start.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/blooming-start.zip
+
+
+blackhill-mansion.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/blackhill-mansion.zip
+
+
+extreme-dimension.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/extreme-dimension.zip
+
+
+old-star-track.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/old-star-track.zip
+
+
+ribble-raceway.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/ribble-raceway.zip
+
+
+city-lights.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/city-lights.zip
+
+
+subway.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/subway.zip
+
+
+leaf-clouds.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/leaf-clouds.zip
+
+
+golem-bight.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/golem-bight.zip
+
+
+lunar-astrocharge.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/lunar-astrocharge.zip
+
+
+sector-5---mini.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/sector-5---mini.zip
+
+
+kota-lava.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/kota-lava.zip
+
+
+high-in-the-sky.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/high-in-the-sky.zip
+
+
+dp-motorsports-land-ii.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/dp-motorsports-land-ii.zip
+
+
+sandplayground.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/sandplayground.zip
+
+
+rcstadium1.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/rcstadium1.zip
+
+
+sweet-mountain.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/sweet-mountain.zip
+
+
+sandstormswirl.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/sandstormswirl.zip
+
+
+gke3c4.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/gke3c4.zip
+
+
+Cirno-Circuit.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/Cirno-Circuit.zip
+
+
+litspore-moor.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/litspore-moor.zip
+
+
+scary-trees.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/scary-trees.zip
+
+
+rv-airport-1.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/rv-airport-1.zip
+
+
+bbr2-tropic-de-coco.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/bbr2-tropic-de-coco.zip
+
+
+rv-toys-in-the-hood-1.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/rv-toys-in-the-hood-1.zip
+
+
+strandvoort_tme.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/strandvoort_tme.zip
+
+
+Forest-Village.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/Forest-Village.zip
+
+
+rainy-swamp.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/rainy-swamp.zip
+
+
+phantom-forest-1.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/phantom-forest-1.zip
+
+
+garguree.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/garguree.zip
+
+
+rv-into-the-cargo-plane.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/rv-into-the-cargo-plane.zip
+
+
+bayhem.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/bayhem.zip
+
+
+dirty-stunts.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/dirty-stunts.zip
+
+
+rv-game-room-1.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/rv-game-room-1.zip
+
+
+carnaval-del-cacao.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/carnaval-del-cacao.zip
+
+
+altura-geohatia.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/altura-geohatia.zip
+
+
+four-paths.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/four-paths.zip
+
+
+pipe-track.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/pipe-track.zip
+
+
+what-a-mesh--remix-.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/what-a-mesh--remix-.zip
+
+
+pyramid-clock.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/pyramid-clock.zip
+
+
+zejumio.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/zejumio.zip
+
+
+ledneon-town.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/ledneon-town.zip
+
+
+terabite-space-race.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/terabite-space-race.zip
+
+
+
+
+
+
+
+
+
+#unstable
+
+party-in-forest.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/party-in-forest.zip
+
+
+
+
+
+#mods 
+
+!minigolf-mod.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/!minigolf-mod.zip
+
+
+!snowpeakmod.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/!snowpeakmod.zip
+
+
+!volcano_island-mod.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/!volcano_island-mod.zip
+
+
+!northresort-mod.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/!northresort-mod.zip
+
+
+!china-mod.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/!china-mod.zip
+
+
+!hacienda-mod.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/!hacienda-mod.zip
+
+
+!paradisoisland-mod.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/!paradisoisland-mod.zip
+
+
+!candela_citymod.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/!candela_citymod.zip
+
+
+!bouncy-plungers-mod.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/!bouncy-plungers-mod.zip
+
+
+!CastleofTime-mod.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/!CastleofTime-mod.zip
+
+
+!canyon-42-mod.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/!canyon-42-mod.zip
+
+
+!green-hill-mod.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/!green-hill-mod.zip
+
+
+!black_forest-mod.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/!black_forest-mod.zip
+
+
+!scotland-mod.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/!scotland-mod.zip
+
+
+!cornfield_crossing-mod.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/!cornfield_crossing-mod.zip
+
+
+!xr591-mod.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/!xr591-mod.zip
+
+
+SRResort.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/SRResort.zip
+
+
+frozen street monkey.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/monkeyball_tg_frozen_street.zip
+
+
+snesrainbowroad.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/snesrainbowroad.zip
+
+
+!stk_enterprise-mod.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/!stk_enterprise-mod.zip
+
+
+CTGPCastleofTime-nitromod.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/CTGPCastleofTime-nitromod.zip
+
+
+old-crescent-crossing.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/old-crescent-crossing.zip
+
+
+!interplanetary-mod.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/!interplanetary-mod.zip
+
+
+!ancient-summits-mod.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/!ancient-summits-mod.zip
+
+
+!waluigipinball-mod.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/!waluigipinball-mod.zip
+
+
+!coyote-canyon-mod
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/!coyote-canyon-mod.zip
+
+
+!demon-ravine-mod.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/!demon-ravine-mod.zip
+
+
+paradise-peaks.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/paradise-peaks.zip
+
+
+color-dream.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/color-dream.zip
+
+
+brondehach.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/brondehach.zip
+
+
+beam-runner_1.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/beam-runner_1.zip
+
+
+!rt5-mod.zip
+
+/installaddon https://raw.githubusercontent.com/8jq9ir/test/refs/heads/main/tracks/!rt5-mod.zip
+
 
 
